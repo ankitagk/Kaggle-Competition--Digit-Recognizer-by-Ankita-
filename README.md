@@ -25,5 +25,5 @@ Let's now build the model and tune the hyperparameters.Start with a linear SVM m
 Non-Linear SVM -Then try a non-linear model with the RBF kernel.
 Then Build the final model
 
-Conclusion¶
+Conclusion
 The final accuracy on test data is approx. 92%. Note that this can be significantly increased by using the entire training data of 42,000 images (we have used just 10% of that!).
